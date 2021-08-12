@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "netflix-clone-e5c7e",
+    "firebase deploy --only functions": "netflix-clone-e5c7e"
+  },
+  "targets": {}
+}
